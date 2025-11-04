@@ -1,0 +1,24 @@
+# --- Dependencias de Producción (API) ---
+# Framework para la API web
+
+ Flask
+
+# Núcleo de Machine Learning
+scikit-learn
+
+# Serialización/Guardado del modelo
+joblib
+
+# Manipulación de arrays (requerido por scikit-learn y la API)
+numpy
+
+# Manipulación de datos (requerido por scikit-learn y la API)
+pandas
+
+
+# --- Dependencias de Desarrollo (Notebook) ---
+# Para ejecutar el fichero .ipynb
+jupyter
+
+# Para visualización (nube de puntos)
+matplotli
